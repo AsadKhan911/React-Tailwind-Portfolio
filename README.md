@@ -25,4 +25,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙋‍♂️ Contact
 
-Feel free to reach out to me via [LinkedIn](#) or [Email](mailto:#).
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/asad-khan-43b1a2209/) or [Email](mailto:#).
