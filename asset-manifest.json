@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-Tailwind-Portfolio/static/css/main.0010a5b3.css",
+    "main.js": "/React-Tailwind-Portfolio/static/js/main.2b2f278d.js",
+    "static/js/453.adaf17df.chunk.js": "/React-Tailwind-Portfolio/static/js/453.adaf17df.chunk.js",
+    "static/media/project2.png": "/React-Tailwind-Portfolio/static/media/project2.8ef55385fc6898dd1e16.png",
+    "static/media/project3.png": "/React-Tailwind-Portfolio/static/media/project3.31215a31381a3dcccdef.png",
+    "static/media/project4.jfif": "/React-Tailwind-Portfolio/static/media/project4.11727bf690c37720c1a2.jfif",
+    "static/media/project1.png": "/React-Tailwind-Portfolio/static/media/project1.e7ef7e81c2b94f4c306a.png",
+    "static/media/dp.png": "/React-Tailwind-Portfolio/static/media/dp.abc86e344ce70dcf03bf.png",
+    "static/media/cv.docx": "/React-Tailwind-Portfolio/static/media/cv.f6d8251f37aa5e8f528b.docx",
+    "index.html": "/React-Tailwind-Portfolio/index.html",
+    "main.0010a5b3.css.map": "/React-Tailwind-Portfolio/static/css/main.0010a5b3.css.map",
+    "main.2b2f278d.js.map": "/React-Tailwind-Portfolio/static/js/main.2b2f278d.js.map",
+    "453.adaf17df.chunk.js.map": "/React-Tailwind-Portfolio/static/js/453.adaf17df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0010a5b3.css",
+    "static/js/main.2b2f278d.js"
+  ]
+}
