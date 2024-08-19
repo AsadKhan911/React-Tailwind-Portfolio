@@ -4,7 +4,7 @@ Welcome to my portfolio! This is a React-based application showcasing my project
 
 ## 🚀 Live Demo
 
-You can view the live demo of the portfolio here [https://asadkhan911.github.io/React-Tailwind-Portfolio/](#)
+You can view the live demo of the portfolio [here](https://asadkhan911.github.io/React-Tailwind-Portfolio/).
 
 ## 📂 Features
 
