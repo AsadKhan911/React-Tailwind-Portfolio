@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/React-Tailwind-Portfolio/static/css/main.3b3b887e.css",
-    "main.js": "/React-Tailwind-Portfolio/static/js/main.c56aa74e.js",
+    "main.css": "/React-Tailwind-Portfolio/static/css/main.fee67910.css",
+    "main.js": "/React-Tailwind-Portfolio/static/js/main.b7db3be6.js",
     "static/js/453.adaf17df.chunk.js": "/React-Tailwind-Portfolio/static/js/453.adaf17df.chunk.js",
-    "static/media/project2.png": "/React-Tailwind-Portfolio/static/media/project2.b4371c09965e7a4e1837.png",
-    "static/media/project3.png": "/React-Tailwind-Portfolio/static/media/project3.8ef55385fc6898dd1e16.png",
-    "static/media/project4.png": "/React-Tailwind-Portfolio/static/media/project4.31215a31381a3dcccdef.png",
-    "static/media/AsadKhan.pdf": "/React-Tailwind-Portfolio/static/media/AsadKhan.5cfc04a00246123752fa.pdf",
-    "static/media/project5.png": "/React-Tailwind-Portfolio/static/media/project5.e7ef7e81c2b94f4c306a.png",
-    "static/media/project1.png": "/React-Tailwind-Portfolio/static/media/project1.a8ee25ec47ea9196191f.png",
+    "static/media/project1.png": "/React-Tailwind-Portfolio/static/media/project1.3e0cb13a82ece6fe7d32.png",
+    "static/media/AsadKhan.pdf": "/React-Tailwind-Portfolio/static/media/AsadKhan.02bf3000eef932f88332.pdf",
+    "static/media/project2.png": "/React-Tailwind-Portfolio/static/media/project2.2bca853909fc010c7cde.png",
+    "static/media/project4.png": "/React-Tailwind-Portfolio/static/media/project4.b4371c09965e7a4e1837.png",
+    "static/media/project5.png": "/React-Tailwind-Portfolio/static/media/project5.8ef55385fc6898dd1e16.png",
+    "static/media/project6.png": "/React-Tailwind-Portfolio/static/media/project6.31215a31381a3dcccdef.png",
+    "static/media/project3.png": "/React-Tailwind-Portfolio/static/media/project3.a8ee25ec47ea9196191f.png",
     "static/media/dp.png": "/React-Tailwind-Portfolio/static/media/dp.abc86e344ce70dcf03bf.png",
     "index.html": "/React-Tailwind-Portfolio/index.html",
-    "main.3b3b887e.css.map": "/React-Tailwind-Portfolio/static/css/main.3b3b887e.css.map",
-    "main.c56aa74e.js.map": "/React-Tailwind-Portfolio/static/js/main.c56aa74e.js.map",
+    "main.fee67910.css.map": "/React-Tailwind-Portfolio/static/css/main.fee67910.css.map",
+    "main.b7db3be6.js.map": "/React-Tailwind-Portfolio/static/js/main.b7db3be6.js.map",
     "453.adaf17df.chunk.js.map": "/React-Tailwind-Portfolio/static/js/453.adaf17df.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b3b887e.css",
-    "static/js/main.c56aa74e.js"
+    "static/css/main.fee67910.css",
+    "static/js/main.b7db3be6.js"
   ]
 }
