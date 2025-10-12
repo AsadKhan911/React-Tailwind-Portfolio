@@ -24,18 +24,13 @@ const Contact = () => {
                             </div>
 
                             <div className='bg-gray-800/40 p-5 rounded-lg'>
-                                <h3 className='md:text-4xl text-2xl font-semibold text-white'>1.5
+                                <h3 className='md:text-4xl text-2xl font-semibold text-white'>2.5
                                     <span>+</span>
                                 </h3>
                                 <p className='text-xs md:text-base'><span>Years of experience</span></p>
                             </div>
 
-                            <div className='bg-gray-800/40 p-5 rounded-lg'>
-                                <h3 className='md:text-4xl text-2xl font-semibold text-white'>100
-                                    <span>+</span>
-                                </h3>
-                                <p className='text-xs md:text-base'><span>Happy clients</span></p>
-                            </div>
+                           
                         </div>
                     </div>
 

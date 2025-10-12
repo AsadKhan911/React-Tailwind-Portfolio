@@ -16,7 +16,7 @@ const education = [
     {
         company: 'COMSATS University Islamabad',
         period: 'Period: 2021-2025',
-        description: 'Currently pursuing a Bachelors degree in Software Engineering.',
+        description: 'Graduated with a Bachelors degree in Software Engineering.',
     },
 ]
 

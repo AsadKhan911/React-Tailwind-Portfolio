@@ -8,10 +8,10 @@ const Footer = () => {
       <h3 className='text-2xl text-gray-200 font-semibold'>A.Khan</h3>
       <div className='flex flex-row gap-6 text-gray-400 text-4xl'>
         <a href='https://github.com/AsadKhan911' rel='noreferrer' target='_blank'><FaGithubSquare/></a>
-        <a href='https://www.linkedin.com/in/asad-khan-43b1a2209/' rel='noreferrer' target='_blank'><FaLinkedin/></a>
+        <a href='https://www.linkedin.com/in/asadkhan911/' rel='noreferrer' target='_blank'><FaLinkedin/></a>
       </div>
     </div>
-    <p className='text-gray-400'>@2024 A.Khan</p>
+    <p className='text-gray-400'>@2025 A.Khan</p>
     </div>
   )
 }
